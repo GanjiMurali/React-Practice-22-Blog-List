@@ -1,0 +1,21 @@
+/* Write your CSS code here */
+.user-info-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.user-img {
+  height: 100px;
+  width: 100px;
+}
+.user-name {
+  font-family: 'Roboto';
+  font-size: 22px;
+}
+
+.user-designation {
+  font-family: 'Roboto';
+  color: #9aa5b1;
+}
